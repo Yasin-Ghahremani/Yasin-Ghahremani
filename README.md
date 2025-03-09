@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me:💻📊
 👋 Hello! I'm Yasin and dedicated developer with a knack for turning ideas into reality through code. My journey in programming began with a fascination for creating innovative solutions to everyday problems, and it's been an exciting adventure ever since.
 
 <!--
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 💫 About Me:
+
 
 
 
