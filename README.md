@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hello! I'm Yasin and dedicated developer with a knack for turning ideas into reality through code. My journey in programming began with a fascination for creating innovative solutions to everyday problems, and it's been an exciting adventure ever since.
 
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/org_ya30in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinghahremani96@gmail.com) 
