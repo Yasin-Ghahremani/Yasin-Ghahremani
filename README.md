@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello! I'm Yasin and dedicated developer with a knack for turning ideas into reality through code. My journey in programming began with a fascination for creating innovative solutions to everyday problems, and it's been an exciting adventure ever since.
 
-🔭 I’m currently working on python develop<br>💥 I’m currently interested about Machine Learning<br>⚡ I love python programming
+🔭 I’m Currently Working on Python Development<br>💥 I’m Currently Interested About Machine Learning<br>⚡ I Love Python Programming
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/org_ya30in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinghahremani96@gmail.com) 
