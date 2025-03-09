@@ -1,4 +1,5 @@
 ## Hi there 👋
+👋 Hello! I'm Yasin and dedicated developer with a knack for turning ideas into reality through code. My journey in programming began with a fascination for creating innovative solutions to everyday problems, and it's been an exciting adventure ever since.
 
 <!--
 **Yasin-Ghahremani/Yasin-Ghahremani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
